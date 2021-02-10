@@ -1,3 +1,3 @@
-module pkg_test
+module pkg_example
 
 go 1.15
